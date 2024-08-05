@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sea1.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sea1.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_ic_launcher_background.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_jewel4.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/jewel4.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sunrisecard.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sunrisecard.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_ic_baseline_lock_24.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sun2.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sun2.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_amoun5.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/amoun5.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/layout_activity_info.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/layout/activity_info.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/raw_login.mp3.flat",
+        "source": "project.ex.hotelapp-main-24:/raw/login.mp3"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_jewel1.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/jewel1.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_ic_baseline_attach_money_24.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/ic_baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sea4.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sea4.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_amoun2.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/amoun2.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_jewel5.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/jewel5.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/raw_book.mp3.flat",
+        "source": "project.ex.hotelapp-main-24:/raw/book.mp3"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/layout_activity_register.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/layout/activity_register.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_amoun6.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/amoun6.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sea7.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sea7.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_amounview.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/amounview.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/anim_go_down.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/anim/go_down.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/anim_go_up.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/anim/go_up.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sun3.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sun3.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_jewel2.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/jewel2.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_amoun3.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/amoun3.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_royaljewelcardview.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/royaljewelcardview.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/layout_activity_main_page.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/layout/activity_main_page.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sun6.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sun6.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_amoun7.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/amoun7.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sun4.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sun4.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sea3.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sea3.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_jewel6.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/jewel6.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sea6.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sea6.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sun7.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sun7.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/layout_activity_signin.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/layout/activity_signin.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_jewel3.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/jewel3.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/anim_go_up2.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/anim/go_up2.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sun5.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sun5.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_seastarview.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/seastarview.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_jewel7.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/jewel7.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_amoun4.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/amoun4.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/anim_disappear.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/anim/disappear.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sea2.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sea2.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sea5.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sea5.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_sun1.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/sun1.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/anim_go_updeep.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/anim/go_updeep.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/color_click_text.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/color/click_text.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/drawable_amoun1.jpg.flat",
+        "source": "project.ex.hotelapp-main-24:/drawable/amoun1.jpg"
+    },
+    {
+        "merged": "project.ex.hotelapp-merged_res-22:/anim_appear.xml.flat",
+        "source": "project.ex.hotelapp-main-24:/anim/appear.xml"
+    }
+]

@@ -1,0 +1,201 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="project.ex.hotelapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="31"
+8-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:5:5-79
+12-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+13-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\Katie\.gradle\caches\transforms-3\043cb43c52deb1d4761b2e0f70c6028c\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:24:5-68
+13-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\Katie\.gradle\caches\transforms-3\043cb43c52deb1d4761b2e0f70c6028c\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:24:22-65
+14    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+14-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\Katie\.gradle\caches\transforms-3\043cb43c52deb1d4761b2e0f70c6028c\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:26:5-82
+14-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\Katie\.gradle\caches\transforms-3\043cb43c52deb1d4761b2e0f70c6028c\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:26:22-79
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Include required permissions for Advertising Id -->
+15-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:26:5-110
+15-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:26:22-107
+16    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+16-->[com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Katie\.gradle\caches\transforms-3\a021d9fc16811fca1a67a8026410138f\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+16-->[com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Katie\.gradle\caches\transforms-3\a021d9fc16811fca1a67a8026410138f\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:22-76
+17
+18    <application
+18-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:6:5-43:19
+19        android:allowBackup="true"
+19-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:8:9-35
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.5.0] C:\Users\Katie\.gradle\caches\transforms-3\575bd41971bc3a7bd96b152bc9224d36\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:9:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:10:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:11:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:12:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.HotelApp" >
+28-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:13:9-46
+29        <service
+29-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:15:9-18:47
+30            android:name="project.ex.hotelapp.Sounds"
+30-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:16:13-35
+31            android:enabled="true"
+31-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:17:13-35
+32            android:exported="true" />
+32-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:18:13-36
+33
+34        <activity
+34-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:20:9-24:15
+35            android:name="project.ex.hotelapp.InfoActivity"
+35-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:21:13-41
+36            android:exported="false"
+36-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:22:13-37
+37            android:noHistory="true" />
+37-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:23:13-37
+38        <activity
+38-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:25:9-28:16
+39            android:name="project.ex.hotelapp.MainPage"
+39-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:26:13-37
+40            android:exported="false" />
+40-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:27:13-37
+41        <activity
+41-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:29:9-32:40
+42            android:name="project.ex.hotelapp.Register"
+42-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:30:13-37
+43            android:exported="false"
+43-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:31:13-37
+44            android:noHistory="true" />
+44-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:32:13-37
+45        <activity
+45-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:33:9-42:20
+46            android:name="project.ex.hotelapp.Signin"
+46-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:34:13-35
+47            android:exported="true"
+47-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:35:13-36
+48            android:noHistory="true" >
+48-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:36:13-37
+49            <intent-filter>
+49-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:37:13-41:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:38:17-69
+50-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:38:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:40:17-77
+52-->C:\Users\Katie\StudioProjects\Hotel_mobile_Application_project\app\src\main\AndroidManifest.xml:40:27-74
+53            </intent-filter>
+54        </activity>
+55
+56        <service
+56-->[com.google.firebase:firebase-functions:20.0.1] C:\Users\Katie\.gradle\caches\transforms-3\086569b43089a3e9005a12e4c1ccda45\transformed\jetified-firebase-functions-20.0.1\AndroidManifest.xml:15:9-21:19
+57            android:name="com.google.firebase.components.ComponentDiscoveryService"
+57-->[com.google.firebase:firebase-functions:20.0.1] C:\Users\Katie\.gradle\caches\transforms-3\086569b43089a3e9005a12e4c1ccda45\transformed\jetified-firebase-functions-20.0.1\AndroidManifest.xml:16:13-84
+58            android:directBootAware="true"
+58-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Katie\.gradle\caches\transforms-3\da340bb15e99868b78ad049465e06469\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+59            android:exported="false" >
+59-->[com.google.firebase:firebase-functions:20.0.1] C:\Users\Katie\.gradle\caches\transforms-3\086569b43089a3e9005a12e4c1ccda45\transformed\jetified-firebase-functions-20.0.1\AndroidManifest.xml:17:13-37
+60            <meta-data
+60-->[com.google.firebase:firebase-functions:20.0.1] C:\Users\Katie\.gradle\caches\transforms-3\086569b43089a3e9005a12e4c1ccda45\transformed\jetified-firebase-functions-20.0.1\AndroidManifest.xml:18:13-20:85
+61                android:name="com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar"
+61-->[com.google.firebase:firebase-functions:20.0.1] C:\Users\Katie\.gradle\caches\transforms-3\086569b43089a3e9005a12e4c1ccda45\transformed\jetified-firebase-functions-20.0.1\AndroidManifest.xml:19:17-111
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[com.google.firebase:firebase-functions:20.0.1] C:\Users\Katie\.gradle\caches\transforms-3\086569b43089a3e9005a12e4c1ccda45\transformed\jetified-firebase-functions-20.0.1\AndroidManifest.xml:20:17-82
+63            <meta-data
+63-->[com.google.firebase:firebase-database:20.0.3] C:\Users\Katie\.gradle\caches\transforms-3\13dc5ad84422c5bac41a7cd93a6c18d0\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:32:13-34:85
+64                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+64-->[com.google.firebase:firebase-database:20.0.3] C:\Users\Katie\.gradle\caches\transforms-3\13dc5ad84422c5bac41a7cd93a6c18d0\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:33:17-109
+65                android:value="com.google.firebase.components.ComponentRegistrar" />
+65-->[com.google.firebase:firebase-database:20.0.3] C:\Users\Katie\.gradle\caches\transforms-3\13dc5ad84422c5bac41a7cd93a6c18d0\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:34:17-82
+66            <meta-data
+66-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\Katie\.gradle\caches\transforms-3\043cb43c52deb1d4761b2e0f70c6028c\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:32:13-34:85
+67                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+67-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\Katie\.gradle\caches\transforms-3\043cb43c52deb1d4761b2e0f70c6028c\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:33:17-96
+68                android:value="com.google.firebase.components.ComponentRegistrar" />
+68-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\Katie\.gradle\caches\transforms-3\043cb43c52deb1d4761b2e0f70c6028c\transformed\jetified-firebase-iid-21.1.0\AndroidManifest.xml:34:17-82
+69            <meta-data
+69-->[com.google.android.gms:play-services-measurement-api:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\0fe3cad63460e6c8eeaf4a3ad0fc537e\transformed\jetified-play-services-measurement-api-20.0.2\AndroidManifest.xml:30:13-32:85
+70                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+70-->[com.google.android.gms:play-services-measurement-api:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\0fe3cad63460e6c8eeaf4a3ad0fc537e\transformed\jetified-play-services-measurement-api-20.0.2\AndroidManifest.xml:31:17-139
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.android.gms:play-services-measurement-api:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\0fe3cad63460e6c8eeaf4a3ad0fc537e\transformed\jetified-play-services-measurement-api-20.0.2\AndroidManifest.xml:32:17-82
+72            <meta-data
+72-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Katie\.gradle\caches\transforms-3\137d9320c2af6860d528ba9be12f4064\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+73                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+73-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Katie\.gradle\caches\transforms-3\137d9320c2af6860d528ba9be12f4064\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Katie\.gradle\caches\transforms-3\137d9320c2af6860d528ba9be12f4064\transformed\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+75        </service>
+76
+77        <provider
+77-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Katie\.gradle\caches\transforms-3\da340bb15e99868b78ad049465e06469\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+78            android:name="com.google.firebase.provider.FirebaseInitProvider"
+78-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Katie\.gradle\caches\transforms-3\da340bb15e99868b78ad049465e06469\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+79            android:authorities="project.ex.hotelapp.firebaseinitprovider"
+79-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Katie\.gradle\caches\transforms-3\da340bb15e99868b78ad049465e06469\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+80            android:directBootAware="true"
+80-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Katie\.gradle\caches\transforms-3\da340bb15e99868b78ad049465e06469\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+81            android:exported="false"
+81-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Katie\.gradle\caches\transforms-3\da340bb15e99868b78ad049465e06469\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+82            android:initOrder="100" />
+82-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Katie\.gradle\caches\transforms-3\da340bb15e99868b78ad049465e06469\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+83
+84        <receiver
+84-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:29:9-33:20
+85            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+85-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:30:13-85
+86            android:enabled="true"
+86-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:31:13-35
+87            android:exported="false" >
+87-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:32:13-37
+88        </receiver>
+89
+90        <service
+90-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:35:9-38:40
+91            android:name="com.google.android.gms.measurement.AppMeasurementService"
+91-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:36:13-84
+92            android:enabled="true"
+92-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:37:13-35
+93            android:exported="false" />
+93-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:38:13-37
+94        <service
+94-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:39:9-43:72
+95            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+95-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:40:13-87
+96            android:enabled="true"
+96-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:41:13-35
+97            android:exported="false"
+97-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:42:13-37
+98            android:permission="android.permission.BIND_JOB_SERVICE" />
+98-->[com.google.android.gms:play-services-measurement:20.0.2] C:\Users\Katie\.gradle\caches\transforms-3\546e11064a5d6de83e6ac08705728d70\transformed\jetified-play-services-measurement-20.0.2\AndroidManifest.xml:43:13-69
+99
+100        <activity
+100-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Katie\.gradle\caches\transforms-3\692ed47b61b6ff27f7fa4a5539b03794\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+101            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+101-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Katie\.gradle\caches\transforms-3\692ed47b61b6ff27f7fa4a5539b03794\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+102            android:exported="false"
+102-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Katie\.gradle\caches\transforms-3\692ed47b61b6ff27f7fa4a5539b03794\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+103            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+103-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Katie\.gradle\caches\transforms-3\692ed47b61b6ff27f7fa4a5539b03794\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+104
+105        <meta-data
+105-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Katie\.gradle\caches\transforms-3\f1edef3f836e8f16a669fa0671d752ea\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+106            android:name="com.google.android.gms.version"
+106-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Katie\.gradle\caches\transforms-3\f1edef3f836e8f16a669fa0671d752ea\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+107            android:value="@integer/google_play_services_version" />
+107-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Katie\.gradle\caches\transforms-3\f1edef3f836e8f16a669fa0671d752ea\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+108    </application>
+109
+110</manifest>

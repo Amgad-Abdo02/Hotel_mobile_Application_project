@@ -1,0 +1,10 @@
+#Mon Aug 05 20:12:31 EEST 2024
+base.0=C\:\\Users\\Katie\\StudioProjects\\Hotel_mobile_Application_project\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Katie\\StudioProjects\\Hotel_mobile_Application_project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Katie\\StudioProjects\\Hotel_mobile_Application_project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
